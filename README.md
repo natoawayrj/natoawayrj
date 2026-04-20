@@ -25,12 +25,9 @@ Analista de Dados com experiência em transformar dados dispersos em informaçõ
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🔗 [analise-vendas](#) | Análise exploratória de dados de vendas | Python, Pandas |
-| 🔗 [sql-queries-portfolio](#) | Coleção de queries SQL comentadas | SQL |
-| 🔗 [dashboard-power-bi](#) | Dashboard de KPIs operacionais | Power BI, DAX |
-
----
-
+| 🔗 [Analise-Brasileirao](https://github.com/natoawayrj/Analise-Brasileirao) | Análise de dados do Campeonato Brasileiro | Python, Jupyter |
+| 🔗 [Initial-HR-Analytics-project](https://github.com/natoawayrj/Initial-HR-Analytics-project) | Análise de dados de RH | Python, Jupyter |
+| 🔗 [E-commerce](https://github.com/natoawayrj/E-commerce) | Análise de dados de e-commerce | Python, Jupyter |
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natoawayrj&show_icons=true&theme=default&hide_border=true)
