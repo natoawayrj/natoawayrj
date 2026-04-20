@@ -25,13 +25,10 @@ Analista de Dados com experiência em transformar dados dispersos em informaçõ
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🔗 [Analise-Brasileirao](https://github.com/natoawayrj/Analise-Brasileirao) | Análise de dados do Campeonato Brasileiro | Python, Jupyter |
-| 🔗 [Initial-HR-Analytics-project](https://github.com/natoawayrj/Initial-HR-Analytics-project) | Análise de dados de RH | Python, Jupyter |
-| 🔗 [E-commerce](https://github.com/natoawayrj/E-commerce) | Análise de dados de e-commerce | Python, Jupyter |
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natoawayrj&show_icons=true&theme=default&hide_border=true)
-
+| 🔗 [Analise-Brasileirao](https://github.com/natoawayrj/Analise-Brasileirao) | Análise do Campeonato Brasileiro com foco em desempenho dos campeões, relação entre investimento e performance, e validação estatística da "Tese do Guardiola" | Python, Pandas, Jupyter |
+| 🔗 [E-commerce](https://github.com/natoawayrj/E-commerce) | Pipeline ETL completo com Python + dashboard executivo no Power BI. KPIs de Faturamento Global (R$ 6,30M), Ticket Médio, ranking de produtos e distribuição geográfica por estado | Python, Pandas, Power BI, DAX |
+| 🔗 [Initial-HR-Analytics-project](https://github.com/natoawayrj/Initial-HR-Analytics-project) | Análise de turnover de funcionários com ETL, EDA e métodos estatísticos avançados (Correlação de Spearman, WOE e IV) para identificar grupos com maior risco de saída e apoiar estratégias de retenção | Python, Pandas, NumPy, Seaborn, SciPy |
+| 🔗 [projeto-em-R](https://github.com/natoawayrj/projeto-em-R) | Análise comparativa de jogos entre PC, PS4, Xbox One e Nintendo Switch — volume de títulos e avaliações médias por plataforma | R, ggplot2, dplyr |
 ---
 
 ## 📬 Contato
